@@ -1,9 +1,9 @@
-**Audio DSP Researcher · PhD Student - C4DM, Queen Mary University of London**
+**Audio DSP Researcher · PhD Student - [C4DM](https://www.c4dm.eecs.qmul.ac.uk), [Queen Mary University of London](https://www.qmul.ac.uk)**
 
 I work on making reverberation algorithms fully differentiable, bridging signal processing with Deep Learning methods. 
 My research focuses on artificial reverberation and Feedback Delay Networks (FDNs): designing attenuation filters, matching room impulse responses, and building systems that can be trained end-to-end.
 
-Previously at **DiGiCo** in FPGAs and DSP engineering doing audio effects and mixing consoles.
+Previously at **[DiGiCo](https://digico.biz)** in FPGAs and DSP engineering doing audio effects and mixing consoles.
 
 ### Interests
 
@@ -23,4 +23,4 @@ Previously at **DiGiCo** in FPGAs and DSP engineering doing audio effects and mi
 
 ### Links
 
-[Personal Site](https://ilias-audio.github.io) · [Google Scholar](https://scholar.google.com/citations?user=XW1iWGgAAAAJ) · [LinkedIn](https://www.linkedin.com/in/ilias-ibnyahya/) · [i.ibnyahya@qmul.ac.uk](mailto:i.ibnyahya@qmul.ac.uk)
+[Google Scholar](https://scholar.google.com/citations?user=XW1iWGgAAAAJ) · [ResearchGate](https://www.researchgate.net/profile/Ilias_Ibnyahya)
