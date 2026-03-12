@@ -16,12 +16,12 @@ Previously at **DiGiCo** in FPGAs and DSP engineering doing audio effects and mi
 
 ---
 
-### Links
-
-[Personal Site](https://ilias-audio.github.io) · [Google Scholar](https://scholar.google.com/citations?user=XW1iWGgAAAAJ) · [LinkedIn](https://www.linkedin.com/in/ilias-ibnyahya/) · [i.ibnyahya@qmul.ac.uk](mailto:i.ibnyahya@qmul.ac.uk)
-
----
-
 ### Tools
 
 **[CPU/GPU Value Finder](https://cpu-gpu-value.vercel.app)** — Find the best-value desktop & homelab GPUs and CPUs at real market prices. Ranks hardware by performance-per-pound using daily eBay data, covering both consumer and pro-grade processing units.
+
+---
+
+### Links
+
+[Personal Site](https://ilias-audio.github.io) · [Google Scholar](https://scholar.google.com/citations?user=XW1iWGgAAAAJ) · [LinkedIn](https://www.linkedin.com/in/ilias-ibnyahya/) · [i.ibnyahya@qmul.ac.uk](mailto:i.ibnyahya@qmul.ac.uk)
