@@ -1,6 +1,6 @@
 # Ilias Ibnyahya
 
-**Audio DSP Researcher · C4DM, Queen Mary University of London**
+**Audio DSP Researcher · PhD Student - C4DM, Queen Mary University of London**
 
 I work on making reverberation algorithms fully differentiable, bridging classical signal processing with gradient-based learning. My research centres on Feedback Delay Networks (FDNs): designing attenuation filters, matching room impulse responses, and building systems that can be trained end-to-end.
 
