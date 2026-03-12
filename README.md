@@ -1,6 +1,7 @@
 **Audio DSP Researcher · PhD Student - C4DM, Queen Mary University of London**
 
-I work on making reverberation algorithms fully differentiable, bridging classical signal processing with gradient-based learning. My research centres on Feedback Delay Networks (FDNs): designing attenuation filters, matching room impulse responses, and building systems that can be trained end-to-end.
+I work on making reverberation algorithms fully differentiable, bridging signal processing with Deep Learning methods. 
+My research focuses on artificial reverberation and Feedback Delay Networks (FDNs): designing attenuation filters, matching room impulse responses, and building systems that can be trained end-to-end.
 
 Previously at **DiGiCo** in FPGAs and DSP engineering doing audio effects and mixing consoles.
 
@@ -14,7 +15,7 @@ Previously at **DiGiCo** in FPGAs and DSP engineering doing audio effects and mi
 
 ---
 
-### Tools
+### Other Tools
 
 **[CPU/GPU Value Finder](https://cpu-gpu-value.vercel.app)** — Find the best-value desktop & homelab GPUs and CPUs at real market prices. Ranks hardware by performance-per-pound using daily eBay data, covering both consumer and pro-grade processing units.
 
